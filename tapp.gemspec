@@ -20,4 +20,5 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'turnip'
   s.add_development_dependency 'awesome_print'
+  s.add_runtime_dependency 'table_print'
 end
